@@ -1,5 +1,5 @@
 [TOC]
-# KVS Automatic Tanscoding (MP4 To HLS)
+# KVS Automatic Transcoding (MP4 To HLS)
 
 主要功能将MP4文件转换为HLS格式  
 这是一个简单的解决方案,基于文件上传至存储服务器的时候触发转码行为  
